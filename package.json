@@ -1,0 +1,37 @@
+{
+  "name": "growthloop",
+  "version": "1.0.0",
+  "description": "AI-powered marketing growth decision platform",
+  "license": "MIT",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "better-sqlite3": "^12.8.0",
+    "clsx": "^2.1.1",
+    "framer-motion": "^12.38.0",
+    "mammoth": "^1.12.0",
+    "next": "16.2.1",
+    "node-cache": "^5.1.2",
+    "pdf-parse": "^2.4.5",
+    "puppeteer-core": "^24.40.0",
+    "puppeteer-extra": "^3.3.6",
+    "puppeteer-extra-plugin-stealth": "^2.11.2",
+    "react": "19.2.4",
+    "react-dom": "19.2.4",
+    "recharts": "^2.15.0",
+    "xlsx": "^0.18.5"
+  },
+  "devDependencies": {
+    "@tailwindcss/postcss": "^4",
+    "@types/better-sqlite3": "^7.6.13",
+    "@types/node": "^20",
+    "@types/react": "^19",
+    "@types/react-dom": "^19",
+    "postcss": "^8.5.0",
+    "tailwindcss": "^4",
+    "typescript": "^5.8.0"
+  }
+}
